@@ -1,0 +1,10 @@
+/*Estilo de las celdas*/
+td {
+  width: 150px;
+  height: 150px;
+  border: 6px solid white;
+  background-color: #41BAB8;
+  font-size: 50px;
+  padding: 5% 12%;
+}
+
